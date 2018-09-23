@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 6ac1e0a7a5f4ad448976d98146aa0f09
-timeCreated: 1537561906
+timeCreated: 1537742645
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -27,26 +27,22 @@ ModelImporter:
     4300002: Cylinder
     4300004: Cone.003
     4300006: Cone.004
-    6400000: Cone
-    6400002: Cone.003
-    6400004: Cone.004
-    6400006: Cylinder
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.001
-    second: {fileID: 2100000, guid: 6eeb1a5bd81c21e40bee9d267ac25b5d, type: 2}
+    second: {fileID: 2100000, guid: 89edd493ccd15d040afbe49067988c64, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.002
-    second: {fileID: 2100000, guid: 00e6478d8baf70f449bf0f7fd1797278, type: 2}
+    second: {fileID: 2100000, guid: 06160ce4182fcbe4d8987412d2ba2aca, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -72,14 +68,14 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 3
-    addColliders: 1
+    meshCompression: 0
+    addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    swapUVChannels: 1
-    generateSecondaryUV: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -91,7 +87,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1
@@ -117,5 +113,5 @@ ModelImporter:
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
-  assetBundleName: trees
-  assetBundleVariant: trees
+  assetBundleName: 
+  assetBundleVariant: 
