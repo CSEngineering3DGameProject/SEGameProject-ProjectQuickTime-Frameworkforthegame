@@ -44,6 +44,12 @@ ModelImporter:
     4300006: Sphere_MeshPart3
     4300008: Sphere_MeshPart4
     4300010: Sphere_MeshPart5
+    6400000: Sphere_MeshPart0
+    6400002: Sphere_MeshPart1
+    6400004: Sphere_MeshPart2
+    6400006: Sphere_MeshPart3
+    6400008: Sphere_MeshPart4
+    6400010: Sphere_MeshPart5
     10800000: Lamp
   externalObjects:
   - first:
@@ -82,7 +88,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
