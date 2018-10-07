@@ -222,9 +222,10 @@
   <ItemGroup>
     <Compile Include="Assets\CameraFollow.cs" />
     <Compile Include="Assets\CameraTestMovementScript.cs" />
+    <Compile Include="Assets\CollisionDetector.cs" />
     <Compile Include="Assets\HolderScriptforGithub.cs" />
-    <Compile Include="Assets\PlayerMovementTest.cs" />
-    <Compile Include="Assets\RigidBodyScriptForPineTrees.cs" />
+    <Compile Include="Assets\MeshForRiverAnimation.cs" />
+    <Compile Include="Assets\PlayerScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
