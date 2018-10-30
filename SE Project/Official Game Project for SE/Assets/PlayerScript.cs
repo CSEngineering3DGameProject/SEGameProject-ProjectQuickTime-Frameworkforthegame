@@ -8,7 +8,7 @@ public class PlayerScript : MonoBehaviour
 
     void Start()
     {
-        moveSpeed = 30f;
+        moveSpeed = 60f;
         
     }
 
