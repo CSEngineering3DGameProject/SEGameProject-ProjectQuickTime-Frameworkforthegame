@@ -14,7 +14,7 @@ public class IdleToCrouch : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        if (Input.GetKey("Space"))
+        if (Input.GetKey("space"))
         {
             inputY = inputY - 1f;
             animator.SetFloat("inputY", inputY);
